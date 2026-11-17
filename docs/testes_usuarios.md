@@ -11,7 +11,7 @@
 
 | Participante | Atendimentos | Nota de facilidade | Situações testadas | Comentário e compreensão |
 |---|---|---|---|---|
-| 1 | 4 | 3 | Pergunta livre sobre como funciona a energia solar; refrigeração; troca por LED; tarifa branca | [PREENCHER: o que disse, se entendeu, se achou a economia garantida] |
+| 1 | 4 | 3 | Pergunta livre sobre como funciona a energia solar; refrigeração; troca por LED; tarifa branca | Sem comentário registrado; apenas os dados do programa |
 | 2 | 4 | 3 | Texto colado por engano; troca por LED; refrigeração; instalação de energia solar | Sem comentário registrado; apenas os dados do programa. |
 | 3 | 2 | 3 | Pergunta livre "energia solar é o futuro?" (2 tentativas); Fio B | Sem comentário registrado; apenas os dados do programa. |
 
