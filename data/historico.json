@@ -1,0 +1,112 @@
+[
+  {
+    "data": "2026-11-17 09:50:16",
+    "origem": "pergunta",
+    "pergunta": "como funciona a energia solar?",
+    "id_orientacao": 9,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 18.2,
+    "facilidade": null
+  },
+  {
+    "data": "2026-11-17 09:50:36",
+    "origem": "categoria",
+    "pergunta": "Refrigeração: expositores, freezers e câmara fria gastando menos",
+    "id_orientacao": 8,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 5.7,
+    "facilidade": null
+  },
+  {
+    "data": "2026-11-17 09:50:44",
+    "origem": "categoria",
+    "pergunta": "Trocar lâmpadas fluorescentes por LED",
+    "id_orientacao": 7,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 3.0,
+    "facilidade": null
+  },
+  {
+    "data": "2026-11-17 09:50:56",
+    "origem": "categoria",
+    "pergunta": "Tarifa branca: preço da energia muda conforme o horário",
+    "id_orientacao": 3,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 2.3,
+    "facilidade": 3
+  },
+  {
+    "data": "2026-11-17 09:52:53",
+    "origem": "pergunta",
+    "pergunta": "[texto colado por engano]",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 3,
+    "tempo_segundos": 43.2,
+    "facilidade": null
+  },
+  {
+    "data": "2026-11-17 09:53:15",
+    "origem": "categoria",
+    "pergunta": "Trocar lâmpadas fluorescentes por LED",
+    "id_orientacao": 7,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 11.7,
+    "facilidade": null
+  },
+  {
+    "data": "2026-11-17 09:53:27",
+    "origem": "categoria",
+    "pergunta": "Refrigeração: expositores, freezers e câmara fria gastando menos",
+    "id_orientacao": 8,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 5.7,
+    "facilidade": null
+  },
+  {
+    "data": "2026-11-17 09:53:45",
+    "origem": "categoria",
+    "pergunta": "Como instalar energia solar e ligar na rede da distribuidora",
+    "id_orientacao": 9,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 6.0,
+    "facilidade": 3
+  },
+  {
+    "data": "2026-11-17 09:55:09",
+    "origem": "pergunta",
+    "pergunta": "energia solar é o futuro?",
+    "id_orientacao": 9,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 2,
+    "tempo_segundos": 43.0,
+    "facilidade": null
+  },
+  {
+    "data": "2026-11-17 09:55:42",
+    "origem": "categoria",
+    "pergunta": "Fio B: por que a economia do solar não zera a conta",
+    "id_orientacao": 10,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 12.9,
+    "facilidade": 3
+  }
+]

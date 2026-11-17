@@ -93,16 +93,23 @@ Páginas da ANEEL (bandeiras tarifárias, tarifa branca, conta de energia, recla
 
 ## Teste com usuários
 
-_Preencher após testar com pelo menos 3 pessoas de fora da equipe, somando 10 atendimentos ou mais:_ indicadores obtidos, dúvidas sem solução e uma melhoria feita a partir do teste. Modelo em `docs/testes_usuarios.md`. Não registre nomes nem dados das pessoas.
+Testado com **3 pessoas de fora da equipe, 10 atendimentos**. Uma rodada de ensaio do autor (11 atendimentos) ficou de fora dos indicadores. Detalhes e comentários em [`docs/testes_usuarios.md`](docs/testes_usuarios.md).
 
-## Limitações
+| Indicador | Valor |
+|---|---|
+| Resposta encontrada (%) | 90,0 |
+| Taxa de acerto: ajudou (%) | 22,2 (2 de 9) |
+| Tempo médio para encontrar | 12,1 s |
+| Tentativas por atendimento | 1,30 |
+| Facilidade de uso (1 a 5) | 3,0 |
 
-- A base tem 12 orientações e só responde o que está nela; a busca é por palavras-chave, não entende sinônimos que não estejam cadastrados.
-- Consumo dos equipamentos, preços e percentuais de economia da simulação de energia são **estimados** (marcados em `energia/data/`). O resultado é uma estimativa, não garantia.
-- A irradiação solar (4,5 kWh/m².dia) e o preço por Wp não foram reconferidos nas fontes originais e são tratados como estimados; valores como as bandeiras tarifárias mudam todo mês.
-- A tarifa usada (R$ 0,93/kWh) é de março/2026, antes do reajuste de julho; a sensibilidade mostra o efeito de R$ 1,01.
-- O assistente não é um canal oficial e não substitui a distribuidora, a ANEEL nem um projeto de engenharia.
+**Dúvidas sem solução:** nenhuma dúvida real. Um participante colou um comando do computador por engano; o programa não travou, e o texto foi substituído no histórico por "[texto colado por engano]".
 
+**Melhoria feita:** a pergunta "por que a luz está cara?" não era encontrada (rodada de ensaio). Foram adicionadas à orientação 1 as palavras-chave "luz esta cara", "luz cara" e "conta cara".
+
+**Limitação revelada:** as perguntas conceituais sobre solar ("como funciona...", "é o futuro?") caem na orientação de instalação (9), que não respondeu a dúvida. Falta uma orientação conceitual com fonte oficial.
+
+- Teste com 3 pessoas (10 atendimentos): taxa de acerto de 22,2%; o assistente responde pelo que está na base e não resolve bem perguntas conceituais sobre energia solar.
 ## Vídeos
 
 - Vídeo técnico de PCP (5 a 8 minutos): _link_

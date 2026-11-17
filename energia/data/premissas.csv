@@ -1,0 +1,15 @@
+chave,valor,unidade,tipo,origem
+tarifa_kwh,0.93,R$/kWh,dado público,"Faturas Enel SP (grupo B, mar/2026, com tributos): TUSD 0,55485 + TE 0,37556 = 0,93041 R$/kWh; valores conferidos em faturas publicadas em camara.leg.br/cota-parlamentar em 17/11/2026. Não inclui bandeira (verde em nov/2026). Anterior ao reajuste de 04/07/2026 da Enel SP (ANEEL: média 8,97% na baixa tensão, 10,18% em todas as classes); ver sensibilidade com R$ 1,01. Conferir a tarifa da classe do comércio na fatura real"
+reajuste_tarifa_anual,0.04,fração/ano,estimado,Premissa do grupo para projetar a tarifa; histórico recente de reajustes é variável (ANEEL)
+irradiacao_hsp,4.5,kWh/m².dia,estimado,"Estimado: faixa de 4,5 a 4,8 kWh/m².dia citada para a capital de SP; NÃO reconferida em 17/11/2026. Dados de SP no plano horizontal na literatura ficam perto de 4,0. Consultar o endereço no CRESESB SunData (cresesb.cepel.br/sundata); ver sensibilidade com 4,0"
+performance_ratio,0.80,fração,estimado,"Taxa de desempenho típica de sistemas FV (perdas de inversor, temperatura, sujeira, cabos)"
+degradacao_anual,0.005,fração/ano,estimado,Perda anual típica de geração dos módulos
+custo_wp,3.00,R$/Wp,estimado,"Referência nacional residencial R$ 2,45/Wp no 1º tri/2026 (Solfácil, via Cenário Energia); sistemas comerciais pequenos costumam custar mais. Obter orçamentos reais"
+om_solar_pct,0.01,fração do investimento/ano,estimado,Limpeza e manutenção; não inclui troca de inversor
+custo_disponibilidade_kwh,50,kWh/mês,dado público,"REN ANEEL 1.000/2021, art. 291 (conferido em 17/11/2026): 30 kWh monofásico, 50 bifásico, 100 trifásico. Usado 50; conferir a ligação do comércio"
+fio_b_ano1,0.75,fração,dado público,"Lei 14.300/2022, art. 27 (conferido em 17/11/2026): 75% em 2027 (60% em 2026) para quem pediu acesso depois de 7/1/2023"
+fio_b_ano2_em_diante,0.90,fração,dado público,"Lei 14.300/2022, art. 27: 90% em 2028; de 2029 vale o art. 17, que depende de valoração da ANEEL, então mantido 90%"
+fio_b_parcela_tarifa,0.25,fração,estimado,Parcela da tarifa que corresponde ao Fio B. Valor real varia por distribuidora; conferir em resolução tarifária da ANEEL
+simultaneidade,0.50,fração,estimado,Parte da geração solar consumida na hora (comércio diurno com refrigeração 24h)
+fator_emissao_t_mwh,0.0385,tCO2/MWh,dado público,"MCTI: média do SIN em 2023 = 38,5 kgCO2/MWh (conferido em 17/11/2026); meses de 2025 entre 21,5 e 28,9 kg/MWh"
+horizonte_anos,10,anos,estimado,Período de referência comum para as alternativas

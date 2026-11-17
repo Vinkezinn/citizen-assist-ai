@@ -1,0 +1,6 @@
+nome,qtd,potencia_w,horas_dia,fator_uso,dias_mes,potencia_w_eficiente,custo_troca_unit,tipo_dado,observacao
+Expositor vertical refrigerado,2,400,24,0.5,30,280,6500,estimado,Potência média e ciclo do compressor estimados; economia de 30% supõe modelo novo eficiente (conferir etiqueta Procel/Inmetro)
+Freezer horizontal,1,300,24,0.5,30,210,3500,estimado,Mesma premissa de 30% de economia
+Câmara fria pequena,1,1500,24,0.4,30,1275,600,estimado,Economia de 15% por vedação das portas/gaxetas e revisão do termostato (sem trocar a câmara)
+Lâmpada tubular fluorescente 40W com reator,40,45,12,1.0,30,18,25,estimado,Troca por tubular LED de 18 W; custo sem mão de obra
+Computador/PDV/balança,3,100,12,0.7,30,100,0,estimado,Sem alteração

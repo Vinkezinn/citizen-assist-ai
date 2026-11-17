@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "categoria": "Conta de luz",
+    "titulo": "Como ler a sua conta de luz",
+    "palavras_chave": [
+      "conta de luz",
+      "fatura",
+      "ler a conta",
+      "entender a conta",
+      "consumo em kwh",
+      "conta de energia"
+    ],
+    "resposta": "Na fatura, confira o consumo do mês em kWh, a tarifa cobrada, a bandeira tarifária, os tributos e as datas de leitura. Compare com os meses anteriores: se o consumo subiu sem motivo, vale revisar os equipamentos e conferir a leitura do medidor.",
+    "documentos": [
+      "Fatura recente"
+    ],
+    "onde": "Fatura da sua distribuidora (papel, site ou aplicativo) e página \"Entendendo a Tarifa\", da ANEEL",
+    "fonte": "https://www.gov.br/aneel/pt-br/assuntos/tarifas/entenda-a-tarifa",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 2,
+    "categoria": "Conta de luz",
+    "titulo": "O que são as bandeiras tarifárias na conta de luz",
+    "palavras_chave": [
+      "bandeira tarifaria",
+      "bandeiras tarifarias",
+      "bandeira",
+      "bandeira vermelha",
+      "bandeira amarela",
+      "bandeira verde"
+    ],
+    "resposta": "As bandeiras mostram, mês a mês, se gerar energia está mais barato ou mais caro. Verde: sem cobrança extra. Amarela: R$ 0,01885 a mais por kWh. Vermelha patamar 1: R$ 0,04463 a mais por kWh. Vermelha patamar 2: R$ 0,07877 a mais por kWh. A cor é definida todo mês (em novembro de 2026 a bandeira é verde); confira a da sua fatura.",
+    "documentos": [],
+    "onde": "Página de bandeiras tarifárias da ANEEL e sua fatura",
+    "fonte": "https://www.gov.br/aneel/pt-br/assuntos/tarifas/bandeiras-tarifarias",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 3,
+    "categoria": "Conta de luz",
+    "titulo": "Tarifa branca: preço da energia muda conforme o horário",
+    "palavras_chave": [
+      "tarifa branca",
+      "horario de ponta",
+      "preco por horario",
+      "tarifa horaria",
+      "horario"
+    ],
+    "resposta": "Na tarifa branca, o preço do kWh varia conforme o horário nos dias úteis: ponta (em geral no início da noite, cerca de 3 horas), intermediário (1 hora antes e 1 hora depois da ponta) e fora de ponta (o resto do dia). Sábados, domingos e feriados nacionais contam como fora de ponta. Pode compensar quando o consumo fica fora da ponta; se o consumo é grande na ponta e não dá para mudar de horário, a tarifa convencional costuma ser melhor. Os horários e preços variam por distribuidora: peça uma simulação a ela antes de pedir a mudança.",
+    "documentos": [
+      "Fatura recente"
+    ],
+    "onde": "Distribuidora de energia (atendimento ou site)",
+    "fonte": "https://www.gov.br/aneel/pt-br/assuntos/tarifas",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 4,
+    "categoria": "Conta de luz",
+    "titulo": "Reclamar quando a distribuidora não resolve o problema",
+    "palavras_chave": [
+      "reclamacao",
+      "reclamar",
+      "distribuidora",
+      "protocolo",
+      "aneel",
+      "cobranca indevida"
+    ],
+    "resposta": "Primeiro registre a reclamação na distribuidora e guarde o número do protocolo. Se o problema não for resolvido, você pode reclamar pelo Consumidor.gov.br ou pelo aplicativo ANEEL Consumidor, indicados na página \"Reclame da Distribuidora\" da ANEEL.",
+    "documentos": [
+      "Número do protocolo da distribuidora",
+      "Fatura recente"
+    ],
+    "onde": "Página \"Reclame da Distribuidora\" (ANEEL), Consumidor.gov.br e aplicativo ANEEL Consumidor",
+    "fonte": "https://www.gov.br/aneel/pt-br/canais_atendimento/reclame-da-distribuidora",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 5,
+    "categoria": "Eficiência energética",
+    "titulo": "Selo Procel: como escolher equipamentos que gastam menos",
+    "palavras_chave": [
+      "selo procel",
+      "procel",
+      "equipamento eficiente",
+      "geladeira eficiente",
+      "gastar menos energia"
+    ],
+    "resposta": "O Selo Procel é um adesivo em forma de lâmpada amarela que indica produtos eficientes e econômicos, como geladeiras, ar condicionado e micro-ondas. Ele é voluntário e destaca os modelos mais eficientes de cada categoria, em geral os classificados como A na etiqueta do Inmetro.",
+    "documentos": [],
+    "onde": "Etiqueta e selo no produto, na loja ou na embalagem",
+    "fonte": "https://agenciagov.ebc.com.br/noticias/202309/selo-procel-leva-mais-economia-e-sustentabilidade-aos-brasileiros",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 6,
+    "categoria": "Eficiência energética",
+    "titulo": "Etiqueta de eficiência energética do Inmetro",
+    "palavras_chave": [
+      "etiqueta inmetro",
+      "etiqueta de eficiencia",
+      "classe a",
+      "ence",
+      "inmetro",
+      "eficiencia energetica"
+    ],
+    "resposta": "Os produtos testados recebem uma etiqueta de faixas coloridas com a classe de eficiência. A classe A é a mais eficiente e a escala vai até C, D, E, F ou G, dependendo do produto. Antes de comprar, procure a etiqueta, compare modelos da mesma categoria e prefira as classes mais eficientes.",
+    "documentos": [],
+    "onde": "Etiqueta colada no produto e tabelas de consumo do Inmetro (ENCE)",
+    "fonte": "https://agenciaminas.mg.gov.br/news/pdf/124358.pdf",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 7,
+    "categoria": "Eficiência energética",
+    "titulo": "Trocar lâmpadas fluorescentes por LED",
+    "palavras_chave": [
+      "lampada led",
+      "led",
+      "iluminacao",
+      "lampada fluorescente",
+      "trocar lampada",
+      "lampadas"
+    ],
+    "resposta": "Lâmpadas LED gastam menos energia que as fluorescentes para a mesma iluminação, e a troca é uma das medidas mais simples. Abaixo mostramos uma simulação com os dados do comércio-modelo. Ao comprar, confira a potência, a quantidade de luz e a certificação do produto.",
+    "documentos": [],
+    "onde": "Lojas de material elétrico (confira a certificação do Inmetro na embalagem)",
+    "fonte": "https://www.gov.br/inmetro/pt-br/centrais-de-conteudo/publicacoes/cartilhas/lampadaled.pdf",
+    "verificado_em": "2026-11-17",
+    "calculo": "led"
+  },
+  {
+    "id": 8,
+    "categoria": "Eficiência energética",
+    "titulo": "Refrigeração: expositores, freezers e câmara fria gastando menos",
+    "palavras_chave": [
+      "geladeira",
+      "freezer",
+      "refrigeracao",
+      "camara fria",
+      "expositor",
+      "refrigerador"
+    ],
+    "resposta": "Refrigeração funciona 24 horas e costuma pesar muito na conta de um comércio. Cuidados que ajudam: conferir a vedação das portas (teste da folha de papel: se ela sai com facilidade, troque a borracha), evitar abrir sem necessidade, não guardar alimentos ainda quentes e não cobrir nem secar nada atrás do equipamento. Equipamentos antigos podem valer a troca por modelos com Selo Procel ou etiqueta A. Para equipamento comercial, siga também o manual do fabricante. Abaixo, uma simulação com os dados do comércio-modelo.",
+    "documentos": [],
+    "onde": "Assistência técnica do fabricante e lojas de equipamentos",
+    "fonte": "https://agenciaminas.mg.gov.br/news/pdf/130200.pdf",
+    "verificado_em": "2026-11-17",
+    "calculo": "refrigeracao"
+  },
+  {
+    "id": 9,
+    "categoria": "Energia solar",
+    "titulo": "Como instalar energia solar e ligar na rede da distribuidora",
+    "palavras_chave": [
+      "energia solar",
+      "painel solar",
+      "placa solar",
+      "microgeracao",
+      "geracao distribuida",
+      "instalar solar"
+    ],
+    "resposta": "Quem produz a própria energia pode usar o sistema de compensação: o que sobra vai para a rede e vira crédito na conta. Microgeração é a usina de até 75 kW. Antes de instalar, é preciso pedir acesso à distribuidora, com formulário-padrão, e esperar o parecer de acesso. Confirme as etapas e os prazos com a distribuidora.",
+    "documentos": [
+      "Fatura recente",
+      "Documento de identificação do titular",
+      "Projeto do sistema solar"
+    ],
+    "onde": "Distribuidora de energia (solicitação de acesso) e empresa instaladora",
+    "fonte": "https://www.gov.br/aneel/pt-br/consumidores/geracao-distribuida",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 10,
+    "categoria": "Energia solar",
+    "titulo": "Fio B: por que a economia do solar não zera a conta",
+    "palavras_chave": [
+      "fio b",
+      "lei 14300",
+      "taxa do sol",
+      "marco legal",
+      "compensacao de energia",
+      "credito de energia"
+    ],
+    "resposta": "O Fio B é a parte da tarifa pelo uso da rede de distribuição. Pela Lei 14.300/2022, quem pediu acesso depois de 7/1/2023 passa a pagar parte dele sobre a energia compensada, de forma escalonada: 60% em 2026, 75% em 2027 e 90% em 2028. De 2029 em diante vale a regra do art. 17 da lei, que depende de definição da ANEEL. Quem pediu acesso até 7/1/2023 tem regra anterior. Por isso a economia do solar é menor que uma conta zerada.",
+    "documentos": [],
+    "onde": "Texto da Lei 14.300/2022 e atendimento da distribuidora",
+    "fonte": "https://planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14300.htm",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 11,
+    "categoria": "Energia solar",
+    "titulo": "Quanto custa e quanto rende um sistema solar no meu comércio",
+    "palavras_chave": [
+      "quanto custa solar",
+      "vale a pena solar",
+      "retorno do investimento",
+      "payback",
+      "quantos paineis",
+      "dimensionar solar",
+      "kwp"
+    ],
+    "resposta": "O tamanho do sistema depende do consumo em kWh e da irradiação solar local. Abaixo, uma simulação para o comércio-modelo, com premissas explicadas. Você também pode informar o seu consumo mensal.",
+    "documentos": [
+      "Fatura recente (para saber o consumo em kWh)"
+    ],
+    "onde": "Consulta de irradiação no CRESESB (SunData) e orçamentos de empresas instaladoras",
+    "fonte": "https://cresesb.cepel.br/sundata/index.php",
+    "verificado_em": "2026-11-17",
+    "calculo": "solar"
+  },
+  {
+    "id": 12,
+    "categoria": "Energia solar",
+    "titulo": "Eficiência ou energia solar: o que fazer primeiro",
+    "palavras_chave": [
+      "comparar solar",
+      "eficiencia ou solar",
+      "o que fazer primeiro",
+      "melhor alternativa",
+      "reduzir conta de luz",
+      "economizar energia"
+    ],
+    "resposta": "Comparamos, para o mesmo período, três caminhos: eficiência energética, energia solar e os dois combinados. Em geral, reduzir o consumo primeiro permite instalar um sistema solar menor. Veja a simulação para o comércio-modelo.",
+    "documentos": [
+      "Fatura recente (para saber o consumo em kWh)"
+    ],
+    "onde": "Distribuidora, empresa instaladora e lojas de equipamentos (peça orçamentos)",
+    "fonte": "https://cresesb.cepel.br/sundata/index.php",
+    "verificado_em": "2026-11-17",
+    "calculo": "comparar"
+  }
+]
