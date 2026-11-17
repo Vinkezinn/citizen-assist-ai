@@ -11,7 +11,7 @@ Projeto único entregue em duas disciplinas da Global Solution 2026.2 (Ciência 
 
 | Nome completo | RM |
 |---|---|
-| Kevin Rodrigues de Melo | 571777 |
+| Kevin Rodrigues | 571777 |
 
 ## Público e problema
 
