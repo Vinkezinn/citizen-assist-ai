@@ -89,7 +89,7 @@ Resultado resumido (comércio-modelo, 10 anos): eficiência R$ 18.100 com retorn
 
 Páginas da ANEEL (bandeiras tarifárias, tarifa branca, conta de energia, reclamação, geração distribuída), Planalto (Lei 14.300/2022), Agência Gov (Selo Procel), AGEMS (etiqueta e refrigeração), CRESESB (irradiação), faturas públicas da Enel SP, Solfácil/Radar e MCTI. Lista com links em cada orientação do JSON e em `docs/referencias_energia.md`.
 
-**Antes da entrega:** orientações com `"verificado_em": "A CONFERIR"` ainda precisam ter a fonte aberta e conferida pela equipe; depois, troque pela data da conferência. Hoje a data de verificação só está preenchida nas orientações 2, 5 e 6.
+**Conferência das fontes (17/11/2026):** as 12 orientações de `data/base_conhecimento.json` têm `verificado_em` preenchido. O conteúdo de cada uma foi conferido na web contra a fonte oficial ou contra textos que a reproduzem; o que foi (e o que não foi) conferido está na coluna "Situação" de [`docs/referencias_energia.md`](docs/referencias_energia.md). Correções feitas na conferência: o reajuste da Enel SP na baixa tensão é 8,97% (10,18% é a média de todas as classes); a orientação 4 passou a apontar para a página "Reclame da Distribuidora" da ANEEL; a orientação 10 passou a dizer que os percentuais do Fio B valem para quem pediu acesso depois de 7/1/2023; as bandeiras de novembro/2026 estão verdes.
 
 ## Teste com usuários
 
@@ -99,7 +99,8 @@ _Preencher após testar com pelo menos 3 pessoas de fora da equipe, somando 10 a
 
 - A base tem 12 orientações e só responde o que está nela; a busca é por palavras-chave, não entende sinônimos que não estejam cadastrados.
 - Consumo dos equipamentos, preços e percentuais de economia da simulação de energia são **estimados** (marcados em `energia/data/`). O resultado é uma estimativa, não garantia.
-- Várias fontes ainda precisam ser conferidas (veja acima); valores como as bandeiras tarifárias mudam todo mês.
+- A irradiação solar (4,5 kWh/m².dia) e o preço por Wp não foram reconferidos nas fontes originais e são tratados como estimados; valores como as bandeiras tarifárias mudam todo mês.
+- A tarifa usada (R$ 0,93/kWh) é de março/2026, antes do reajuste de julho; a sensibilidade mostra o efeito de R$ 1,01.
 - O assistente não é um canal oficial e não substitui a distribuidora, a ANEEL nem um projeto de engenharia.
 
 ## Vídeos
